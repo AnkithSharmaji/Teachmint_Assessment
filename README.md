@@ -39,3 +39,6 @@ The TEACHMINT Frontend Project is a React-based web application that serves as a
 - Pause and start the clock as needed.
 - Navigate back to the user directory using the "Back" button.
 
+## Screenshots
+<img width="1440" alt="Screenshot 2024-01-04 at 4 24 12 PM" src="https://github.com/AnkithSharmaji/Teachmint_Assessment/assets/86291521/d93cde83-32ed-4f0c-aeb3-bcb238ee838a">
+<img width="1440" alt="Screenshot 2024-01-04 at 4 24 19 PM" src="https://github.com/AnkithSharmaji/Teachmint_Assessment/assets/86291521/23050acf-4d74-4cfd-bb5c-02e658c2af3f">
