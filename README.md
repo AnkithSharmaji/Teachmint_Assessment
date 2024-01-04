@@ -5,7 +5,7 @@
 The TEACHMINT Frontend Project is a React-based web application that serves as a user directory, displaying a list of members along with their details and posts.
 
 ## Hosted Version
-View the hosted version of the TEACHMINT Frontend Project https://65968e11d94a7100941d1dc6--graceful-crostata-985819.netlify.app/
+View the hosted version of the TEACHMINT Frontend Project [https://65968e11d94a7100941d1dc6--graceful-crostata-985819.netlify.app/](https://graceful-crostata-985819.netlify.app/)
 
 ## Features
 
