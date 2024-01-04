@@ -13,7 +13,6 @@ The TEACHMINT Frontend Project is a React-based web application that serves as a
 - Pause/Start functionality for the clock.
 - User details include name, username, email, phone, and address.
 - Display up to 3 posts per row in a responsive layout.
-- Pop-up display of complete post content on click (bonus feature).
 
 ## Technologies Used
 
