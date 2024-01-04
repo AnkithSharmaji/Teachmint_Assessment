@@ -1,0 +1,41 @@
+/* Styles for the main container of the user details */
+
+.user-detail-container {
+    background-color: lavender; /* Lavender background color */
+    color: teal; /* Teal text color */
+    padding: 20px;
+  }
+  
+  /* Styles for a centered container within the user details */
+  .centered-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for the user details box */
+  .user-details-box {
+    border: 1px solid teal; 
+    padding: 10px;
+    margin-bottom: 20px;
+    position: relative; 
+  }
+  
+  /* Styles for the columns inside the user details box */
+  .user-details-column {
+    flex: 1; 
+  }
+  
+  /* Styles for the "Back to User Directory" link */
+  .back-link {
+    position: absolute; 
+    top: 10px;
+    right: 10px;
+    color: teal; 
+    text-decoration: none;
+  }
+  
+  /* Hover effect for the link */
+  .back-link:hover {
+    text-decoration: underline;
+  }
+  
